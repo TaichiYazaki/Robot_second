@@ -1,3 +1,6 @@
-import termcolor
+
+import robot
 def talk_about_restaurant():
-    print()
+    
+    Robot =robot.Robot()
+    Robot.hello()
